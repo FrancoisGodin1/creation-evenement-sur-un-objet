@@ -15,5 +15,3 @@ Livre.cs : classe livre comportant l'événement LivreChanged
 
 LivreChangedEventArgs : classe permettant de stocker les paramètres de l'événement LivreChanged
 
-
-Suite à suivre....
